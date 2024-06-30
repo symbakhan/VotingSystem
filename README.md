@@ -14,7 +14,7 @@ MetaMask is a browser extension wallet that allows you to interact with Ethereum
 
 2. **Create a MetaMask Account:**
    - Follow the instructions to create a new wallet or import an existing one.
-
+     
 3. **Connect MetaMask to a Local Blockchain:**
    - Click on the network dropdown (usually shows "Ethereum Mainnet") at the top of the MetaMask extension.
    - Select "Custom RPC" and enter the following details to connect to Ganache:
